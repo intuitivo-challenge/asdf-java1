@@ -1,2 +1,2 @@
 # asdf-java1
-Welcome to the asdf-java1 repository TEST
+Welcome to the asdf-java1 repository TEST.............
